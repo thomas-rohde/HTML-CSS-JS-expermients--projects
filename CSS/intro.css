@@ -45,4 +45,9 @@ div {
     width: 50vh;
     color: red;
     background: cyan;
+    text-align: center;
+    
+}
+a {
+    text-decoration: none;
 }

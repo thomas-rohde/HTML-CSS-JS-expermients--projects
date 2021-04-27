@@ -1,0 +1,48 @@
+/*body {
+    background-color: blueviolet;
+
+}
+h1 {
+    color: rgb(30, 210, 156);
+    font-size: medium;
+}
+h2 {
+    color: crimson;
+    font-size: small;
+}
+p {
+    font : normal
+}
+
+        some comments
+*/
+/*#Heading {
+    color: blueviolet;
+    background: salmon;
+}
+#heading {
+    color: red;
+}
+#text {
+    color: rosybrown;
+}
+*/
+body {
+    background: coral; 
+}
+div {
+    font-family: 'Times New Roman', Times, serif;
+    color: seagreen;
+    border: 3px solid black;
+    background: cornsilk;
+}
+.green {
+    color: green;
+    background: rgba(65, 105, 225, 0.164);
+}
+.red {
+    height: 50vh;
+    width: 50vh;
+    color: red;
+    background: cyan;
+}

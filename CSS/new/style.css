@@ -1,8 +1,8 @@
 h1 {
     background-color: red;
     padding: 20px;
-    margin-bottom: 0;
-    margin: 30px;
+    display: inline;
+    /*margin: 30px;*/
     border-style: solid;
     border-color: chartreuse;
 }
@@ -10,7 +10,9 @@ p {
     background-color: blue;
     /*padding: 50px;*/
     /*padding: 30px 60px;*/
-    padding:  20px 30px 40px 50px;
+    /*padding:  20px 30px 40px 50px;*/
     /* top, right, bottom, left */
     margin-top: 0;
+    display: inline;
+    text-transform: capitalize;
 }
